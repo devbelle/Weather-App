@@ -8,7 +8,7 @@ To access, copy the repository in github, then use the git clone function in com
 
 ##Usage
 
-
+![Screenshot](Weather-App.png)
 
 Link below:
 
